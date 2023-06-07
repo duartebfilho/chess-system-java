@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author meketreffe
+ *
+ */
+module chessSystem {
+}
